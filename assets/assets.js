@@ -78,38 +78,38 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
-        description: 'Web Design',
+        title: 'Book selling website',
+        description: 'Build using ASP .NET core, and web API',
         bgImage: '/work-1.png',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
+        title: 'Netflix clone',
+        description: 'Build using React and Firebase',
         bgImage: '/work-2.png',
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
+        title: 'Ecommerce website',
+        description: 'Build using React js and Tailwind css',
         bgImage: '/work-3.png',
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
+        title: 'Auth app',
+        description: 'Build using Angular',
         bgImage: '/work-4.png',
     },
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.mobile_icon, title: 'Mobile app', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
-    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
+    { icon: assets.web_icon, title: 'Cloud services ', description: 'Azure and AWS based cloud services including hosting, scalable databases to build, deploy...', link: '' },
+    { icon: assets.mobile_icon, title: 'API design', description: 'RESTful API and auth development and third party services...', link: '' },
+    { icon: assets.ui_icon, title: 'UI/UX design', description: 'Figma to responsive customable design using css, tailwind or bootstrap css...', link: '' },
+        { icon: assets.graphics_icon, title: 'Freelancing Services', description: 'Creative diverse client needs and deliver quality projects on time... ', link: '' },
 ]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript React Js, Next Js' },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Frameworks', description: 'CSS, React, Angular, ASP .NET Core, .NET Web API' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.Tech in Computer Science' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 17 projects' }
 ];
 
 export const toolsData = [
